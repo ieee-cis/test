@@ -1,4 +1,8 @@
 # test
 test
 
- $`x^2 + x^4`$
+```math
+f(x) = \int_{-\infty}^\infty
+    \hat f(\xi)\,e^{2 \pi i \xi x}
+    \,d\xi
+```
