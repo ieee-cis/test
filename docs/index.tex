@@ -1,3 +1,9 @@
+
+
+% Compilar com make4ht -c config.cfg index.tex
+% tem que primeiro usar o pdflatex e bibtex para criar as referencias
+
+
 \documentclass[graybox]{svmult} 
 
 \usepackage[english]{babel}
@@ -29,8 +35,10 @@ Your abstract. Ça va? (Yes accented characters work.)
 \section{Overview of Steps}
 
 \begin{equation}
-MAE_t = \frac{1}{min(n',t)} \sum_{i=max(t-n'+1,1)}^{t}  \| \hat{y}_i - y_i \|; 
+\mathcal{T} = \frac{1}{min(n',t)} \sum_{i=max(t-n'+1,1)}^{t}  \| \hat{y}_i - y_i \|; 
 \end{equation}
+
+$\mathbf{x}$
 
 \begin{equation}
 S(\omega)=1.466\, H_s^2 \frac{\omega_0^5}{\omega^6} \exp\Bigl[-3^{\frac{\omega}{\omega_0}}\Bigr]^2

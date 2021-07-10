@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2020.3.3)  10 JUL 2021 14:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2020.3.3)  10 JUL 2021 14:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1496,41 +1496,41 @@ LaTeX Info: Redefining \nameref on input line 4.
 ] [4]
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 23.
+(Font)              size <17.28> substituted on input line 29.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+LaTeX Font Info:    Try loading font information for U+msa on input line 29.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+LaTeX Font Info:    Try loading font information for U+msb on input line 29.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.5> not available
-(Font)              size <8> substituted on input line 23.
+(Font)              size <8> substituted on input line 29.
 
-l. 31 Writing index.idv[1] (index0x.png)
+l. 37 Writing index.idv[1] (index0x.png)
 [5]
-l. 35 Writing index.idv[2] (index1x.png)
-l. 39 Writing index.idv[3] (index2x.png)
-l. 44 Writing index.idv[4] (index3x.png)
+l. 43 Writing index.idv[2] (index1x.png)
+l. 47 Writing index.idv[3] (index2x.png)
+l. 52 Writing index.idv[4] (index3x.png)
  [6]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 57.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 65.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 57.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
  [7]
 [8] [9
 
 ]
-l.91 --- TeX4ht warning --- File `"frog.xbb"' not found ---
-l.91 --- TeX4ht warning --- Cannot determine size of graphic in "frog.xbb" (no 
+l.99 --- TeX4ht warning --- File `"frog.xbb"' not found ---
+l.99 --- TeX4ht warning --- Cannot determine size of graphic in "frog.xbb" (no 
 BoundingBox) ---
-l. 91 --- needs --- frog.png ---
+l. 99 --- needs --- frog.png ---
 [10
 
 ] [11
@@ -1546,8 +1546,8 @@ l. 91 --- needs --- frog.png ---
 ] [16
 
 ]
-l. 118 Writing index.idv[5] (index4x.png)
-l. 120 Writing index.idv[6] (index5x.png)
+l. 126 Writing index.idv[5] (index4x.png)
+l. 128 Writing index.idv[6] (index5x.png)
  [17
 
 ] [18] [19
@@ -1561,29 +1561,29 @@ l. 120 Writing index.idv[6] (index5x.png)
  [21
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
 
 [22
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
  (./index.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 167.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 167.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 175.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 175.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
  ) 
 Here is how much of TeX's memory you used:
- 24347 strings out of 492617
- 447382 string characters out of 6129508
+ 24352 strings out of 492617
+ 447430 string characters out of 6129508
  699126 words of memory out of 5000000
- 27557 multiletter control sequences out of 15000+600000
- 8585 words of font info for 33 fonts, out of 8000000 for 9000
+ 27560 multiletter control sequences out of 15000+600000
+ 9204 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,8n,69p,1091b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on index.dvi (22 pages, 39612 bytes).
+Output written on index.dvi (22 pages, 39656 bytes).
