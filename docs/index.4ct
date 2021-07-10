@@ -1,7 +1,20 @@
 \expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
-\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-10001}{QQ2-1-1}{Overview of Steps}}{3}\relax 
-\doTocEntry\tocsubsection{1.1}{\csname a:TocLink\endcsname{1}{x1-20001.1}{QQ2-1-2}{Caveats}}{5}\relax 
-\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-30002}{QQ2-1-3}{Introduction}}{6}\relax 
-\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-40003}{QQ2-1-4}{Some \LaTeX  {} Examples}}{6}\relax 
-\doTocEntry\tocsubsection{3.1}{\csname a:TocLink\endcsname{1}{x1-50003.1}{QQ2-1-5}{How to Include Figures}}{6}\relax 
+\doTocEntry\toctitlech{}{\csname a:TocLink\endcsname{1}{Q1-1-1}{}{\numberline {1}\special {t4ht;8}\let \prOteCt \relax \let \prOteCt \relax \Protect \gl:nopartrue \relax \unhbox \voidb@x \special {t4ht=<h2 class="titleHead">}\let \prOteCt \relax \let \prOteCt \relax \Protect \gl:nopartrue Testing HTML Export with make4ht\relax \unhbox \voidb@x \special {t4ht=</h2>}\let \prOteCt \relax \let \prOteCt \relax \Protect \gl:removeindenttrue \special {t4ht;9}}}{5}\relax 
+\doTocEntry\tocauthorch{}{\csname a:TocLink\endcsname{1}{Q1-1-2}{}{\let \prOteCt \relax \let \prOteCt \relax \let \prOteCt \relax \Protect \gl:nopartrue \let \prOteCt \relax \let \prOteCt \relax \let \prOteCt \relax \Protect \par:end \relax \unhbox \voidb@x \special {t4ht=<div class="author" >}LianTze Lim\let \prOteCt \relax \let \prOteCt \relax \let \prOteCt \relax \Protect \gl:nopartrue \let \prOteCt \relax \let \prOteCt \relax \let \prOteCt \relax \Protect \par:end \relax \unhbox \voidb@x \special {t4ht=</div>}}}{5}\relax 
+\doTocEntry\tocsection{1.1}{\csname a:TocLink\endcsname{1}{x1-10001.1}{QQ2-1-3}{Overview of Steps}}{5}\relax 
+\doTocEntry\tocsubsection{1.1.1}{\csname a:TocLink\endcsname{1}{x1-20001.1.1}{QQ2-1-4}{Caveats}}{7}\relax 
+\doTocEntry\tocsection{1.2}{\csname a:TocLink\endcsname{1}{x1-30001.2}{QQ2-1-5}{Introduction}}{8}\relax 
+\doTocEntry\tocsection{1.3}{\csname a:TocLink\endcsname{1}{x1-40001.3}{QQ2-1-6}{Some \LaTeX  {} Examples}}{8}\relax 
+\doTocEntry\tocsubsection{1.3.1}{\csname a:TocLink\endcsname{1}{x1-50001.3.1}{QQ2-1-7}{How to Include Figures}}{8}\relax 
+\doTocEntry\toclof{1.1}{\csname a:TocLink\endcsname{1}{x1-50011}{}{\ignorespaces This frog was uploaded to Overleaf via the project menu. The \texttt  {.jpg} file will be used as-is in the HTML export.}}{figure}\relax 
+\doTocEntry\toclof{1.2}{\csname a:TocLink\endcsname{1}{x1-50022}{}{\ignorespaces PDF images will be converted to PNG when exported to HTML.}}{figure}\relax 
+\doTocEntry\tocsubsection{1.3.2}{\csname a:TocLink\endcsname{1}{x1-60001.3.2}{QQ2-1-10}{How to Make Tables}}{14}\relax 
+\doTocEntry\toclot{1.1}{\csname a:TocLink\endcsname{1}{x1-60011}{}{\ignorespaces An example table.}}{table}\relax 
+\doTocEntry\tocsubsection{1.3.3}{\csname a:TocLink\endcsname{1}{x1-70001.3.3}{QQ2-1-12}{How to Write Mathematics}}{17}\relax 
+\doTocEntry\tocsubsection{1.3.4}{\csname a:TocLink\endcsname{1}{x1-80001.3.4}{QQ2-1-13}{How to Make Sections and Subsections}}{17}\relax 
+\doTocEntry\tocsubsection{1.3.5}{\csname a:TocLink\endcsname{1}{x1-90001.3.5}{QQ2-1-14}{How to Make Lists}}{17}\relax 
+\doTocEntry\tocsection{1.4}{\csname a:TocLink\endcsname{1}{x1-100001.4}{QQ2-1-15}{Tikz Drawings}}{18}\relax 
+\doTocEntry\toclof{1.3}{\csname a:TocLink\endcsname{1}{x1-100013}{}{\ignorespaces TikZ drawings will be output as SVG, which should be rendered by most modern browsers.}}{figure}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-110001.4}{QQ2-1-17}{References}}{21}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-18}{}{References}}{21}\relax 
 \par 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2020.3.3)  10 JUL 2021 14:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2020.3.3)  10 JUL 2021 14:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -9,10 +9,15 @@ documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
  tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
 \HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode xhtml,,html5.a.b.c.\input "
 \detokenize{index.tex}"
-(./index.tex (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+(./index.tex (./svmult.cls
+Document Class: svmult 2018/01/11 v5.5 
+Springer Verlag global LaTeX document class for multi authored books
+Class Springer-SVMult Info: extra/valid Springer sub-package 
+(Springer-SVMult)           not found in option list - using "global" style.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -26,6 +31,152 @@ File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+\svparindent=\dimen103
+\bibindent=\dimen104
+\betweenumberspace=\dimen105
+\headlineindent=\dimen106
+\minitoc=\write3
+\c@minitocdepth=\count88
+\c@chapter=\count89
+\mottowidth=\dimen107
+\svitemindent=\dimen108
+\verbatimindent=\dimen109
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 971.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 972.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 973.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 974.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 975.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 976.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 977.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 978.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 979.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 980.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 981.
+\tocchpnum=\dimen110
+\tocsecnum=\dimen111
+\tocsectotal=\dimen112
+\tocsubsecnum=\dimen113
+\tocsubsectotal=\dimen114
+\tocsubsubsecnum=\dimen115
+\tocsubsubsectotal=\dimen116
+\tocparanum=\dimen117
+\tocparatotal=\dimen118
+\tocsubparanum=\dimen119
+\foot@parindent=\dimen120
+\spthmsep=\dimen121
+\c@theorem=\count90
+\c@case=\count91
+\c@conjecture=\count92
+\c@corollary=\count93
+\c@definition=\count94
+\c@example=\count95
+\c@exercise=\count96
+\c@lemma=\count97
+\c@note=\count98
+\c@problem=\count99
+\c@property=\count100
+\c@proposition=\count101
+\c@question=\count102
+\c@solution=\count103
+\c@remark=\count104
+\c@prob=\count105
+\instindent=\dimen122
+\figgap=\dimen123
+\bildb@x=\box27
+\figcapgap=\dimen124
+\tabcapgap=\dimen125
+\c@merk=\count106
+\c@@inst=\count107
+\c@@auth=\count108
+\c@auco=\count109
+\instindent=\dimen126
+\authrun=\box28
+\authorrunning=\toks14
+\tocauthor=\toks15
+\titrun=\box29
+\titlerunning=\toks16
+\toctitle=\toks17
+\c@contribution=\count110
+LaTeX Info: Redefining \abstract on input line 2329.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/x11nam.def
+File: x11nam.def 2016/05/11 v2.12 Predefined colors according to Unix/X11 (UK)
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ntheorem/ntheorem.sty
+Style `ntheorem', Version 1.33 <2011/08/15>
+Package: ntheorem 2011/08/15 1.33
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\theorem@style=\toks18
+\theorem@@style=\toks19
+\theorembodyfont=\toks20
+\theoremnumbering=\toks21
+\theorempreskipamount=\skip43
+\theorempostskipamount=\skip44
+\theoremframepreskipamount=\skip45
+\theoremframepostskipamount=\skip46
+\theoreminframepreskipamount=\skip47
+\theoreminframepostskipamount=\skip48
+\theorem@preskip=\toks22
+\theorem@postskip=\toks23
+\theorem@framepreskip=\toks24
+\theorem@framepostskip=\toks25
+\theorem@inframepreskip=\toks26
+\theorem@inframepostskip=\toks27
+\theoremindent=\dimen127
+\theorem@indent=\dimen128
+\theoremrightindent=\dimen129
+\theorem@rightindent=\dimen130
+\theoremheaderfont=\toks28
+\theoremseparator=\toks29
+\theoremprework=\toks30
+\theorempostwork=\toks31
+\theoremsymbol=\toks32
+\qedsymbol=\toks33
+\theoremkeyword=\toks34
+\qedsymbol=\toks35
+\thm@topsep=\skip49
+\thm@topsepadd=\skip50
+Package ntheorem Info: Option `thmmarks' loaded on input line 1175.
+\c@endNonectr=\count111
+\c@currNonectr=\count112
+\mysavskip=\skip51
+Package ntheorem Info: Option `thref' loaded on input line 1175.
+\mysavskip=\skip52
+)
+\c@currproofctr=\count113
+\c@endproofctr=\count114
+\c@proof=\count115
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip53
+\fb@frw=\dimen131
+\fb@frh=\dimen132
+\FrameRule=\dimen133
+\FrameSep=\dimen134
+)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/tex4ht.sty
 version 2019-03-18-15:24
 Package: tex4ht 
@@ -35,7 +186,7 @@ Package: tex4ht
 --------------------------------------
 --- Note --- for ^ at preamble, use the command line option `early^'
 --------------------------------------
-\tmp:toks=\toks14
+\tmp:toks=\toks36
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/usepackage.4ht
 version 2019-01-12-14:56
@@ -51,24 +202,27 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2019/05/04 3.31 Babel common definitions
-\babel@savecnt=\count88
-\U@D=\dimen103
+\babel@savecnt=\count116
+\U@D=\dimen135
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@dirlevel=\count89
+
+LaTeX Warning: Command \@testdef  has changed.
+               Check if current package is valid.
+
+\bbl@dirlevel=\count117
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
-))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
+\inpenc@prehook=\toks37
+\inpenc@posthook=\toks38
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2018/12/01 v2.17b AMS math features
-\@mathmargin=\skip43
+\@mathmargin=\skip54
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -76,51 +230,51 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks17
-\ex@=\dimen104
+\@emptytoks=\toks39
+\ex@=\dimen136
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen105
+\pmbraise@=\dimen137
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count90
+\inf@bad=\count118
 LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count91
-\leftroot@=\count92
+\uproot@=\count119
+\leftroot@=\count120
 LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count93
-\DOTSCASE@=\count94
+\classnum@=\count121
+\DOTSCASE@=\count122
 LaTeX Info: Redefining \ldots on input line 482.
 LaTeX Info: Redefining \dots on input line 485.
 LaTeX Info: Redefining \cdots on input line 606.
-\Mathstrutbox@=\box27
-\strutbox@=\box28
-\big@size=\dimen106
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen138
 LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count95
-\c@MaxMatrixCols=\count96
+\macc@depth=\count123
+\c@MaxMatrixCols=\count124
 \dotsspace@=\muskip10
-\c@parentequation=\count97
-\dspbrk@lvl=\count98
-\tag@help=\toks18
-\row@=\count99
-\column@=\count100
-\maxfields@=\count101
-\andhelp@=\toks19
-\eqnshift@=\dimen107
-\alignsep@=\dimen108
-\tagshift@=\dimen109
-\tagwidth@=\dimen110
-\totwidth@=\dimen111
-\lineht@=\dimen112
-\@envbody=\toks20
-\multlinegap=\skip44
-\multlinetaggap=\skip45
-\mathdisplay@stack=\toks21
+\c@parentequation=\count125
+\dspbrk@lvl=\count126
+\tag@help=\toks40
+\row@=\count127
+\column@=\count128
+\maxfields@=\count129
+\andhelp@=\toks41
+\eqnshift@=\dimen139
+\alignsep@=\dimen140
+\tagshift@=\dimen141
+\tagwidth@=\dimen142
+\totwidth@=\dimen143
+\lineht@=\dimen144
+\@envbody=\toks42
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks43
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
@@ -139,7 +293,7 @@ Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks22
+\KV@toks@=\toks44
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/usepackage.4ht
 version 2019-01-12-14:56
@@ -154,12 +308,9 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: dvips.def on input line 99.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
-))
-\Gin@req@height=\dimen113
-\Gin@req@width=\dimen114
+)
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/usepackage.4ht
 version 2019-01-12-14:56
@@ -169,14 +320,14 @@ version 2019-01-12-14:56
 (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
-\pgfutil@everybye=\toks23
-\pgfutil@tempdima=\dimen115
-\pgfutil@tempdimb=\dimen116
+\pgfutil@everybye=\toks45
+\pgfutil@tempdima=\dimen147
+\pgfutil@tempdimb=\dimen148
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box29
+\pgfutil@abb=\box32
 (/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
@@ -191,31 +342,31 @@ Package: pgf 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks24
-\pgfkeys@temptoks=\toks25
+\pgfkeys@pathtoks=\toks46
+\pgfkeys@temptoks=\toks47
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
 ode.tex
-\pgfkeys@tmptoks=\toks26
+\pgfkeys@tmptoks=\toks48
 ))
-\pgf@x=\dimen117
-\pgf@y=\dimen118
-\pgf@xa=\dimen119
-\pgf@ya=\dimen120
-\pgf@xb=\dimen121
-\pgf@yb=\dimen122
-\pgf@xc=\dimen123
-\pgf@yc=\dimen124
-\w@pgf@writea=\write3
+\pgf@x=\dimen149
+\pgf@y=\dimen150
+\pgf@xa=\dimen151
+\pgf@ya=\dimen152
+\pgf@xb=\dimen153
+\pgf@yb=\dimen154
+\pgf@xc=\dimen155
+\pgf@yc=\dimen156
+\w@pgf@writea=\write4
 \r@pgf@reada=\read1
-\c@pgf@counta=\count102
-\c@pgf@countb=\count103
-\c@pgf@countc=\count104
-\c@pgf@countd=\count105
-\t@pgf@toka=\toks27
-\t@pgf@tokb=\toks28
-\t@pgf@tokc=\toks29
-\pgf@sys@id@count=\count106
+\c@pgf@counta=\count130
+\c@pgf@countb=\count131
+\c@pgf@countc=\count132
+\c@pgf@countd=\count133
+\t@pgf@toka=\toks49
+\t@pgf@tokb=\toks50
+\t@pgf@tokc=\toks51
+\pgf@sys@id@count=\count134
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2019/04/04 v3.1.2 (3.1.2)
@@ -229,40 +380,24 @@ File: pgfsys-tex4ht.def 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-s
 vg.def
 File: pgfsys-common-svg.def 2019/04/04 v3.1.2 (3.1.2)
-\pgf@sys@svg@objectcount=\count107
-\pgf@sys@svg@scopecount=\count108
-\pgf@sys@svg@type@count=\count109
-\pgf@sys@svg@canvascount=\count110
+\pgf@sys@svg@objectcount=\count135
+\pgf@sys@svg@scopecount=\count136
+\pgf@sys@svg@type@count=\count137
+\pgf@sys@svg@canvascount=\count138
 )
-\pgf@sys@svg@picnum=\count111
-\pgf@sys@svg@nodenum=\count112
-\pgfsys@foreignobject@Box=\box30
-\pgf@s=\dimen125
-\pgf@t=\dimen126
+\pgf@sys@svg@picnum=\count139
+\pgf@sys@svg@nodenum=\count140
+\pgfsys@foreignobject@Box=\box33
+\pgf@s=\dimen157
+\pgf@t=\dimen158
  (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/usepackage.4ht
 version 2019-01-12-14:56
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: dvips.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfsyssoftpath@smallbuffer@items=\count113
-\pgfsyssoftpath@bigbuffer@items=\count114
+\pgfsyssoftpath@smallbuffer@items=\count141
+\pgfsyssoftpath@bigbuffer@items=\count142
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -277,12 +412,12 @@ Package: pgfcore 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen127
-\pgfmath@count=\count115
-\pgfmath@box=\box31
-\pgfmath@toks=\toks30
-\pgfmath@stack@operand=\toks31
-\pgfmath@stack@operation=\toks32
+\pgfmath@dimen=\dimen159
+\pgfmath@count=\count143
+\pgfmath@box=\box34
+\pgfmath@toks=\toks52
+\pgfmath@stack@operand=\toks53
+\pgfmath@stack@operation=\toks54
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
 tex
@@ -303,57 +438,57 @@ code.tex)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
 erarithmetics.code.tex)))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count116
+\c@pgfmathroundto@lastzeros=\count144
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@picminx=\dimen128
-\pgf@picmaxx=\dimen129
-\pgf@picminy=\dimen130
-\pgf@picmaxy=\dimen131
-\pgf@pathminx=\dimen132
-\pgf@pathmaxx=\dimen133
-\pgf@pathminy=\dimen134
-\pgf@pathmaxy=\dimen135
-\pgf@xx=\dimen136
-\pgf@xy=\dimen137
-\pgf@yx=\dimen138
-\pgf@yy=\dimen139
-\pgf@zx=\dimen140
-\pgf@zy=\dimen141
+\pgf@picminx=\dimen160
+\pgf@picmaxx=\dimen161
+\pgf@picminy=\dimen162
+\pgf@picmaxy=\dimen163
+\pgf@pathminx=\dimen164
+\pgf@pathmaxx=\dimen165
+\pgf@pathminy=\dimen166
+\pgf@pathmaxy=\dimen167
+\pgf@xx=\dimen168
+\pgf@xy=\dimen169
+\pgf@yx=\dimen170
+\pgf@yy=\dimen171
+\pgf@zx=\dimen172
+\pgf@zy=\dimen173
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@path@lastx=\dimen142
-\pgf@path@lasty=\dimen143
+\pgf@path@lastx=\dimen174
+\pgf@path@lasty=\dimen175
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@shorten@end@additional=\dimen144
-\pgf@shorten@start@additional=\dimen145
+\pgf@shorten@end@additional=\dimen176
+\pgf@shorten@start@additional=\dimen177
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
 File: pgfcorescopes.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfpic=\box32
-\pgf@hbox=\box33
-\pgf@layerbox@main=\box34
-\pgf@picture@serial@count=\count117
+\pgfpic=\box35
+\pgf@hbox=\box36
+\pgf@layerbox@main=\box37
+\pgf@picture@serial@count=\count145
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgflinewidth=\dimen146
+\pgflinewidth=\dimen178
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@pt@x=\dimen147
-\pgf@pt@y=\dimen148
-\pgf@pt@temp=\dimen149
+\pgf@pt@x=\dimen179
+\pgf@pt@y=\dimen180
+\pgf@pt@temp=\dimen181
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -370,14 +505,14 @@ File: pgfcorepathprocessing.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
 File: pgfcorearrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfarrowsep=\dimen150
+\pgfarrowsep=\dimen182
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@max=\dimen151
-\pgf@sys@shading@range@num=\count118
-\pgf@shadingcount=\count119
+\pgf@max=\dimen183
+\pgf@sys@shading@range@num=\count146
+\pgf@shadingcount=\count147
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -386,7 +521,7 @@ File: pgfcoreimage.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
 code.tex
 File: pgfcoreexternal.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfexternal@startupbox=\box35
+\pgfexternal@startupbox=\box38
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
 de.tex
@@ -407,7 +542,7 @@ File: pgfcorerdf.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
 e.tex
 File: pgfmoduleshapes.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfnodeparttextbox=\box36
+\pgfnodeparttextbox=\box39
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
 tex
@@ -416,8 +551,8 @@ File: pgfmoduleplot.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
-\pgf@nodesepstart=\dimen152
-\pgf@nodesepend=\dimen153
+\pgf@nodesepstart=\dimen184
+\pgf@nodesepend=\dimen185
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -432,10 +567,10 @@ Package: pgfcomp-version-1-18 2019/04/04 v3.1.2 (3.1.2)
 Package: pgffor 2019/04/04 v3.1.2 (3.1.2)
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen154
-\pgffor@skip=\dimen155
-\pgffor@stack=\toks33
-\pgffor@toks=\toks34
+\pgffor@iter=\dimen186
+\pgffor@skip=\dimen187
+\pgffor@stack=\toks55
+\pgffor@toks=\toks56
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
 e.tex
@@ -444,32 +579,32 @@ Package: tikz 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@plot@mark@count=\count120
-\pgfplotmarksize=\dimen156
+\pgf@plot@mark@count=\count148
+\pgfplotmarksize=\dimen188
 )
-\tikz@lastx=\dimen157
-\tikz@lasty=\dimen158
-\tikz@lastxsaved=\dimen159
-\tikz@lastysaved=\dimen160
-\tikzleveldistance=\dimen161
-\tikzsiblingdistance=\dimen162
-\tikz@figbox=\box37
-\tikz@figbox@bg=\box38
-\tikz@tempbox=\box39
-\tikz@tempbox@bg=\box40
-\tikztreelevel=\count121
-\tikznumberofchildren=\count122
-\tikznumberofcurrentchild=\count123
-\tikz@fig@count=\count124
+\tikz@lastx=\dimen189
+\tikz@lasty=\dimen190
+\tikz@lastxsaved=\dimen191
+\tikz@lastysaved=\dimen192
+\tikzleveldistance=\dimen193
+\tikzsiblingdistance=\dimen194
+\tikz@figbox=\box40
+\tikz@figbox@bg=\box41
+\tikz@tempbox=\box42
+\tikz@tempbox@bg=\box43
+\tikztreelevel=\count149
+\tikznumberofchildren=\count150
+\tikznumberofcurrentchild=\count151
+\tikz@fig@count=\count152
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfmatrixcurrentrow=\count125
-\pgfmatrixcurrentcolumn=\count126
-\pgf@matrix@numberofcolumns=\count127
+\pgfmatrixcurrentrow=\count153
+\pgfmatrixcurrentcolumn=\count154
+\pgf@matrix@numberofcolumns=\count155
 )
-\tikz@expandcount=\count128
+\tikz@expandcount=\count156
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -522,33 +657,33 @@ File: tikzlibraryshapes.multipart.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
 shapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfnodepartlowerbox=\box41
-\pgfnodeparttwobox=\box42
-\pgfnodepartthreebox=\box43
-\pgfnodepartfourbox=\box44
-\pgfnodeparttwentybox=\box45
-\pgfnodepartnineteenbox=\box46
-\pgfnodeparteighteenbox=\box47
-\pgfnodepartseventeenbox=\box48
-\pgfnodepartsixteenbox=\box49
-\pgfnodepartfifteenbox=\box50
-\pgfnodepartfourteenbox=\box51
-\pgfnodepartthirteenbox=\box52
-\pgfnodeparttwelvebox=\box53
-\pgfnodepartelevenbox=\box54
-\pgfnodeparttenbox=\box55
-\pgfnodepartninebox=\box56
-\pgfnodeparteightbox=\box57
-\pgfnodepartsevenbox=\box58
-\pgfnodepartsixbox=\box59
-\pgfnodepartfivebox=\box60
+\pgfnodepartlowerbox=\box44
+\pgfnodeparttwobox=\box45
+\pgfnodepartthreebox=\box46
+\pgfnodepartfourbox=\box47
+\pgfnodeparttwentybox=\box48
+\pgfnodepartnineteenbox=\box49
+\pgfnodeparteighteenbox=\box50
+\pgfnodepartseventeenbox=\box51
+\pgfnodepartsixteenbox=\box52
+\pgfnodepartfifteenbox=\box53
+\pgfnodepartfourteenbox=\box54
+\pgfnodepartthirteenbox=\box55
+\pgfnodeparttwelvebox=\box56
+\pgfnodepartelevenbox=\box57
+\pgfnodeparttenbox=\box58
+\pgfnodepartninebox=\box59
+\pgfnodeparteightbox=\box60
+\pgfnodepartsevenbox=\box61
+\pgfnodepartsixbox=\box62
+\pgfnodepartfivebox=\box63
 )))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip46
-\bibsep=\skip47
+\bibhang=\skip57
+\bibsep=\skip58
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count129
+\c@NAT@ctr=\count157
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
@@ -606,16 +741,16 @@ Package auxhook Warning: Cannot patch \document,
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen163
-\Hy@linkcounter=\count130
-\Hy@pagecounter=\count131
+\@linkdim=\dimen195
+\Hy@linkcounter=\count158
+\Hy@pagecounter=\count159
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count132
+\Hy@SavedSpaceFactor=\count160
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -628,18 +763,18 @@ Package hyperref Info: Plain pages OFF on input line 4534.
 Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
-\c@Hy@tempcnt=\count133
+\c@Hy@tempcnt=\count161
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen164
-\Fld@menulength=\count134
-\Field@Width=\dimen165
-\Fld@charsize=\dimen166
-\Field@toks=\toks35
+\XeTeXLinkMargin=\dimen196
+\Fld@menulength=\count162
+\Field@Width=\dimen197
+\Fld@charsize=\dimen198
+\Field@toks=\toks57
 Package hyperref Info: Hyper figures OFF on input line 6380.
 Package hyperref Info: Link nesting OFF on input line 6385.
 Package hyperref Info: Hyper index ON on input line 6388.
@@ -649,7 +784,7 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6405.
 Package hyperref Info: PDF/A mode OFF on input line 6410.
 LaTeX Info: Redefining \ref on input line 6450.
 LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count135
+\Hy@abspage=\count163
 
 
 Package hyperref Message: Stopped early.
@@ -673,14 +808,14 @@ version 2018-12-30-09:29
 version 2019-03-18-15:24
 
 --- needs --- tex4ht index ---
-\tmp:cnt=\count136
+\tmp:cnt=\count164
 \openout15 = `index.tmp'.
 
 (./index.tmp)
-\tmp:dim=\skip48
+\tmp:dim=\skip59
  (./index.xref)
-\:refout=\write4
-\openout4 = `index.xref'.
+\:refout=\write5
+\openout5 = `index.xref'.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4.4ht
@@ -782,8 +917,8 @@ version 2019-03-15-15:44
 --- Note --- To print a timestamp, use the command line option timestamp
 --------------------------------------
 )
-\:tokwrite=\toks36
-\:tokpage=\toks37
+\:tokwrite=\toks58
+\:tokpage=\toks59
 --------------------------------------
 --- Note --- for back links to toc, use the command line option `sections+'
 --------------------------------------
@@ -793,8 +928,8 @@ version 2019-03-15-15:44
 --------------------------------------
 \openout15 = `index.4ct'.
 
-\:tocout=\write5
-\openout5 = `index.4tc'.
+\:tocout=\write6
+\openout6 = `index.4tc'.
 
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4.4ht
@@ -926,6 +1061,96 @@ option `sec-filename'
 --- Note --- for i-columns index, use the command line option `index=i' (e.g., 
 index=2)
 --------------------------------------
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2018-09-02-14:29
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2018-12-05-18:11
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-03-15-15:44
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/xcolor.4ht
+version 2019-04-09-10:06
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/color.4ht
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2019-04-05-15:56
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2018-09-02-14:29
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2018-12-05-18:11
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-03-15-15:44
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2019-04-05-15:56
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2018-09-02-14:29
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2018-12-05-18:11
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-03-15-15:44
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/color.4ht)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/dvips.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2019-04-05-15:56
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2018-09-02-14:29
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2018-12-05-18:11
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-03-15-15:44
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/ntheorem.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2019-04-05-15:56
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2018-09-02-14:29
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2018-12-05-18:11
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-03-15-15:44
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/ifthen.4ht
+version 2009-05-21-09:32
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2019-04-05-15:56
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2018-09-02-14:29
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2018-12-05-18:11
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-03-15-15:44
+))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/framed.4ht
+version 2017-04-22-16:03
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2019-04-05-15:56
+\framed:cnt=\count165
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/unicode.4ht
 version 2018-09-02-14:29
@@ -1109,21 +1334,6 @@ version 2018-12-05-18:11
 (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2019-03-15-15:44
 ))
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/dvips.4ht
-version 2009-05-21-09:32
-
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2019-04-05-15:56
-)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/unicode.4ht
-version 2018-09-02-14:29
-)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2018-12-05-18:11
-)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html5.4ht
-version 2019-03-15-15:44
-))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/pgf.4ht
 version 2009-05-21-09:32
 
@@ -1154,35 +1364,6 @@ version 2018-12-05-18:11
 (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2019-03-15-15:44
 ))
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/xcolor.4ht
-version 2019-04-09-10:06
-
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/color.4ht
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2019-04-05-15:56
-)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/unicode.4ht
-version 2018-09-02-14:29
-)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2018-12-05-18:11
-)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html5.4ht
-version 2019-03-15-15:44
-))
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4.4ht
-version 2019-04-05-15:56
-)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/unicode.4ht
-version 2018-09-02-14:29
-)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4-math.4ht
-version 2018-12-05-18:11
-)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html5.4ht
-version 2019-03-15-15:44
-))
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/color.4ht)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/natbib.4ht
 version 2013-01-19-12:33
 
@@ -1207,7 +1388,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count137
+\c@section@level=\count166
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/nameref.4ht
 version 2017-11-27-09:16
@@ -1225,7 +1406,7 @@ version 2018-12-05-18:11
 version 2019-03-15-15:44
 ))
 LaTeX Info: Redefining \autoref on input line 95.
-\Hy@SectionHShift=\skip49
+\Hy@SectionHShift=\skip60
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2019-04-05-15:56
@@ -1301,7 +1482,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
-\AtBeginShipoutBox=\box61
+\AtBeginShipoutBox=\box64
 Package hyperref Info: Link coloring ON on input line 18.
 LaTeX Info: Redefining \ref on input line 18.
 LaTeX Info: Redefining \pageref on input line 18.
@@ -1309,9 +1490,17 @@ LaTeX Info: Redefining \nameref on input line 18.
 --- file index.css ---
  [1
 
-] [2]
+] [2
+
+] [3
+
+] [4]
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 19.
+
 LaTeX Font Info:    Try loading font information for U+msa on input line 19.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 19.
@@ -1319,43 +1508,78 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 19.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.5> not available
+(Font)              size <8> substituted on input line 19.
+
 l. 27 Writing index.idv[1] (index0x.png)
- [3]
+[5]
 l. 31 Writing index.idv[2] (index1x.png)
 l. 35 Writing index.idv[3] (index2x.png)
 l. 40 Writing index.idv[4] (index3x.png)
- [4]
+ [6]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 53.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 53.
- [5]
+ [7]
+[8] [9
 
-LaTeX Warning: Reference `fig:frog' on page 6 undefined on input line 83.
+] [10
 
-[6] [7
+] [11
+
+] [12
+
+] [13
+
+] [14
+
+] [15
+
+] [16
 
 ]
+l. 114 Writing index.idv[5] (index4x.png)
+l. 116 Writing index.idv[6] (index5x.png)
+ [17
 
-! LaTeX Error: File `frog' not found.
+] [18] [19
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 \includegraphics[width=0.3\textwidth]{frog}
-                                                
-? x
- 
+] [20
+
+] (./index.bbl)
+\tf@thm=\write7
+\openout7 = `index.thm'.
+
+
+[21
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
+ [22
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
+ (./index.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 163.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 163.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
+ ) 
 Here is how much of TeX's memory you used:
- 22943 strings out of 492617
- 426445 string characters out of 6129508
- 661163 words of memory out of 5000000
- 26195 multiletter control sequences out of 15000+600000
- 12174 words of font info for 46 fonts, out of 8000000 for 9000
+ 24337 strings out of 492617
+ 447296 string characters out of 6129508
+ 699157 words of memory out of 5000000
+ 27553 multiletter control sequences out of 15000+600000
+ 8585 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,8n,69p,984b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
-Output written on index.dvi (7 pages, 23392 bytes).
+ 60i,8n,69p,1069b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on index.dvi (22 pages, 39428 bytes).
