@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2020.3.3)  10 JUL 2021 14:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2020.3.3)  10 JUL 2021 14:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,8 +7,8 @@ de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
 {\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
 documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
  tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
-\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode xhtml,,html5.a.b.c.\input "
-\detokenize{index.tex}"
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode config.cfg,,html5.a.b.c.\in
+put "\detokenize{index.tex}"
 (./index.tex (./svmult.cls
 Document Class: svmult 2018/01/11 v5.5 
 Springer Verlag global LaTeX document class for multi authored books
@@ -795,12 +795,11 @@ Package hyperref Info: Driver: htex4ht.
 File: htex4ht.def 2018/11/30 v6.88e Hyperref driver for TeX4ht
 Package hyperref Info: tex4ht is already loaded.
 )
-(/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+(./config.cfg (/usr/local/texlive/2019/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
 version 2018-12-30-09:29
 --------------------------------------
 --- Note --- for additional information, use the command line option `info'
 --------------------------------------
-
 ::::::::::::::::::::::::::::::::::::::::::
  TeX4ht info is available in the log file 
 ::::::::::::::::::::::::::::::::::::::::::
@@ -886,7 +885,7 @@ option `frames-fn'
 --------------------------------------
 --- Note --- for file extension name xht, use the command line option `xht'
 --------------------------------------
-TeX4ht package options: xhtml,html5,html
+TeX4ht package options: html5,html,xhtml
 --------------------------------------
 --- Note --- To print a timestamp, use the command line option timestamp
 --------------------------------------
@@ -1468,27 +1467,27 @@ version 2019-03-15-15:44
 )) (./index.aux)
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
 \AtBeginShipoutBox=\box64
-Package hyperref Info: Link coloring ON on input line 18.
-LaTeX Info: Redefining \ref on input line 18.
-LaTeX Info: Redefining \pageref on input line 18.
-LaTeX Info: Redefining \nameref on input line 18.
+Package hyperref Info: Link coloring ON on input line 4.
+LaTeX Info: Redefining \ref on input line 4.
+LaTeX Info: Redefining \pageref on input line 4.
+LaTeX Info: Redefining \nameref on input line 4.
 --- file index.css ---
- [1
+) [1
 
 ] [2
 
@@ -1497,37 +1496,42 @@ LaTeX Info: Redefining \nameref on input line 18.
 ] [4]
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 19.
+(Font)              size <17.28> substituted on input line 23.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 19.
+LaTeX Font Info:    Try loading font information for U+msa on input line 23.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 19.
+LaTeX Font Info:    Try loading font information for U+msb on input line 23.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.5> not available
-(Font)              size <8> substituted on input line 19.
+(Font)              size <8> substituted on input line 23.
 
-l. 27 Writing index.idv[1] (index0x.png)
+l. 31 Writing index.idv[1] (index0x.png)
 [5]
-l. 31 Writing index.idv[2] (index1x.png)
-l. 35 Writing index.idv[3] (index2x.png)
-l. 40 Writing index.idv[4] (index3x.png)
+l. 35 Writing index.idv[2] (index1x.png)
+l. 39 Writing index.idv[3] (index2x.png)
+l. 44 Writing index.idv[4] (index3x.png)
  [6]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 53.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 57.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 53.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 57.
  [7]
 [8] [9
 
-] [10
+]
+l.91 --- TeX4ht warning --- File `"frog.xbb"' not found ---
+l.91 --- TeX4ht warning --- Cannot determine size of graphic in "frog.xbb" (no 
+BoundingBox) ---
+l. 91 --- needs --- frog.png ---
+[10
 
 ] [11
 
@@ -1542,8 +1546,8 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 ] [16
 
 ]
-l. 114 Writing index.idv[5] (index4x.png)
-l. 116 Writing index.idv[6] (index5x.png)
+l. 118 Writing index.idv[5] (index4x.png)
+l. 120 Writing index.idv[6] (index5x.png)
  [17
 
 ] [18] [19
@@ -1554,32 +1558,32 @@ l. 116 Writing index.idv[6] (index5x.png)
 \tf@thm=\write7
 \openout7 = `index.thm'.
 
-
-[21
-
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
- [22
+ [21
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
+
+[22
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
  (./index.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 163.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 163.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 167.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 167.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
  ) 
 Here is how much of TeX's memory you used:
- 24337 strings out of 492617
- 447296 string characters out of 6129508
- 699157 words of memory out of 5000000
- 27553 multiletter control sequences out of 15000+600000
+ 24347 strings out of 492617
+ 447382 string characters out of 6129508
+ 699126 words of memory out of 5000000
+ 27557 multiletter control sequences out of 15000+600000
  8585 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,69p,1069b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,8n,69p,1091b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on index.dvi (22 pages, 39428 bytes).
+Output written on index.dvi (22 pages, 39612 bytes).
